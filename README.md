@@ -29,6 +29,6 @@ To get the exact versions, you can run the version check code snippets provided 
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/AshNicolus/jaundice-detection.git
-cd jaundice-detection
+git clone https://github.com/AshNicolus/jaundice_detection.git
+cd jaundice_detection
 ```
