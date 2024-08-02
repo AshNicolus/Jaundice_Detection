@@ -32,3 +32,12 @@ To get the exact versions, you can run the version check code snippets provided 
 git clone https://github.com/AshNicolus/jaundice_detection.git
 cd jaundice_detection
 ```
+
+Dataset :-
+ `"https://drive.google.com/file/d/1-oswkGQI-GCKBFOGZtmVvpmsOTEbHeJE/view?usp=drive_link"` 
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## Contact
+For questions or collaboration, please contact Ash Nicolus.
