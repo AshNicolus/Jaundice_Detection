@@ -8,8 +8,8 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 # Set paths to your data directories
-train_dir = r"C:\Users\pc\PycharmProjects\Model_Dev\data"
-validation_dir = r"C:\Users\pc\PycharmProjects\Model_Dev\data"
+train_dir = r"xxxxxxxxxxxxxxxxxxxx"
+validation_dir = r"xxxxxxxxxxxxxxxxxx"
 
 # Verify directories
 if not os.path.exists(train_dir):
