@@ -1,3 +1,34 @@
-# Jaundice_Detection
+## Description
+This project is a system for detecting jaundice using an image classification model built on top of VGG16. The system captures images from an IP webcam, processes them, and sends an alert using Twilio if jaundice is detected. The model is trained on a dataset containing over 2500 images of jaundice and more than 500 images of normal images to ensure robust image processing and detection.
 
-Jaundice is a medical condition characterized by the yellowing of the skin and eyes, caused by high bilirubin levels in the blood. This project aims to develop a Python-based tool for detecting jaundice using image processing and machine learning techniques. The goal is to provide a reliable and efficient method for early detection, which can be particularly useful in remote or under-resourced areas.
+
+## Dependencies
+This project requires the following Python packages:
+
+Python 3.12.4
+
+
+
+- `os` (Standard Library)
+- `cv2` (OpenCV) - Version: 4.5.3
+- `numpy` - Version: 1.21.0
+- `tensorflow` - Version: 2.5.0
+- `matplotlib` - Version: 3.4.2
+- `twilio` - Version: 6.50.0
+- `datetime` (Standard Library)
+- `requests` 
+- `geopy`
+```sh
+pip install opencv-python numpy tensorflow matplotlib twilio requests geopy
+```
+
+To get the exact versions, you can run the version check code snippets provided for each package in a Python environment.
+
+
+## Installation
+
+### Clone the Repository
+```sh
+git clone https://github.com/AshNicolus/jaundice-detection.git
+cd jaundice-detection
+```
