@@ -29,7 +29,7 @@ To get the exact versions, you can run the version check code snippets provided 
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/AshNicolus/jaundice_detection.git
+git clone https://github.com/AshNicolus/Jaundice_Detection.git
 cd jaundice_detection
 ```
 
